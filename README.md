@@ -15,10 +15,6 @@
 从零实现一个简单的自动微分系统 (为了简便，不包含张量处理)，理解反向传播的核心机制。  
 👉 [进入目录](./micro-grad/README.md)
 
-### BatchNorm 和 LayerNorm 原理
-整理并解释 BatchNorm 与 LayerNorm 的作用、公式与区别。  
-👉 [进入目录](./batchnorm&layernorm/README.md)
-
 ### 手动搭建神经网络
 从基础模块出发实现一个简单神经网络，并理解训练流程。  
 👉 [进入目录](./mlp/README.md)
